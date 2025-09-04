@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./public/logo.png" alt="Student Performance Monitoring System" width="200" height="200" />
 </p>
-<h1 align="center">Student Performance Analytics</h1>
+<h1 align="center">Acadence</h1>
 
 A web-based application built with raw PHP that streamlines academic performance tracking in educational institutions. Laravel-like code structure for maintainability.
 
